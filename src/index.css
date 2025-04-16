@@ -49,7 +49,7 @@
   }
 
   body {
-    @apply bg-solo-dark text-foreground font-sans bg-digital-nation bg-cover bg-center bg-fixed;
+    @apply bg-solo-dark text-foreground font-sans bg-circuit-board bg-cover bg-center bg-fixed;
   }
 
   /* Custom scrollbar */
