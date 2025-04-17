@@ -24,7 +24,7 @@ const Dashboard = () => {
       <div className="space-y-6">
         <div>
           <h1 className="text-2xl font-semibold">Welcome to Solo Nation</h1>
-          <p className="text-solo-gray mt-1">Your sovereign digital dashboard</p>
+          <p className="text-solo-gray mt-1">Your citizen digital dashboard</p>
         </div>
 
         {/* Stats overview */}
@@ -280,7 +280,7 @@ const Dashboard = () => {
                     </CardTitle>
                     <CardDescription className="mt-1">Behavior-based assessment</CardDescription>
                   </div>
-                  <Badge>Sovereign</Badge>
+                  <Badge>Founding Citizen</Badge>
                 </div>
               </CardHeader>
               <CardContent>
